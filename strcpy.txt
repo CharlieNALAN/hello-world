@@ -1,3 +1,4 @@
+/*本地编写*/
 #include<stdio.h>
 #include <string.h>
 #include <crtdbg.h>
@@ -17,5 +18,7 @@ char* strcpy(char* src)
 }
 
 
+
 /*本地添加*/
 /*信息：B19050508王俊淼*/
+

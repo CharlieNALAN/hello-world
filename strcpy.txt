@@ -15,3 +15,7 @@ char* strcpy(char* src)
     *(res + len) = '\0';
     return res;
 }
+
+
+/*本地添加*/
+/*信息：B19050508王俊淼*/
